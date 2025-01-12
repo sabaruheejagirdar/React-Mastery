@@ -1,0 +1,10 @@
+*{
+  margin: 10px 10px 0;
+  padding: 10px;
+  box-sizing: border-box;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  width: 95%;
+  margin: 0 auto;
+  background-color: rgb(50 60 76);
+  color: #fff;
+}

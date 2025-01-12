@@ -1,0 +1,15 @@
+.headerLine{
+  font-size: 3rem;
+}
+.headerLine{
+  margin-bottom: 20px;
+}
+.appContainer{
+  margin: 20px 2%;
+}
+
+.counter-outer-container{
+  width: 20%;
+  text-align: center;
+  margin: 0 auto;
+}

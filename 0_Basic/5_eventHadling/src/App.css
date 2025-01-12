@@ -1,0 +1,12 @@
+.app-container, .app-container *{
+  background-color: rgb(185, 101, 80)
+}
+
+.appButton{
+  background-color: rgb(124, 56, 38)
+}
+
+.inputText{
+  background-color: rgb(238, 129, 102)
+
+}

@@ -1,0 +1,13 @@
+.counter-container{
+    font-size: 20px;
+    background-color: beige;
+    display: flex;
+    flex-direction: column;
+    gap:15px;
+    border: 2px solid black;
+    border-radius: 2%;
+}
+
+button{
+    font-size: 25px;
+}

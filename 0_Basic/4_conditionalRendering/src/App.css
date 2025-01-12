@@ -1,0 +1,7 @@
+.app-container, .app-container *{
+  background-color: rgb(185, 101, 80);
+}
+
+.loginLogout-outer-container, .loginLogout-outer-container *{
+  background-color: rgb(185, 169, 80);
+}

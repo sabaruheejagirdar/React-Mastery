@@ -1,0 +1,16 @@
+.app-container, .app-container *{
+  background-color: rgb(185, 101, 80)
+}
+
+.setwidth{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  width: 500px;
+  height: 200px;
+  text-align: center;
+}
+
+button{
+  width: 200px;
+}

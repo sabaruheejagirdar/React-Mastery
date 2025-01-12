@@ -1,0 +1,8 @@
+.app-container, .app-container *{
+  background-color: rgb(185, 101, 80)
+}
+
+
+.card-outer-container, .card-outer-container *{
+  background-color: rgb(185, 160, 80)
+}
